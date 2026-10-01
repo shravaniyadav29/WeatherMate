@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+config.py
+build/
+*.apk
+*.sha1
