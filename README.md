@@ -4,7 +4,7 @@
 
 WeatherMate is a weather information system built using Python, Flet, MySQL, and weather APIs.
 
-The project displays current weather information, hourly forecasts, 5-day forecasts, recent searches, favorite cities, and weather history.
+The project displays current weather information, hourly forecasts, 5-day forecasts, recent searches, and weather history.
 
 ### Technologies Used
 
